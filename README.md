@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeTienDat02
+- 👋 Hi, I’m Lê Tiến Đạt
 - 🌱 I’m currently learning Duy Tan University
 - 💞️ I’m looking to collaborate on FPT Sotfware
 - 📫 How to reach me at https://www.facebook.com/datkoi02/
