@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lê Tiến Đạt
 - 🌱 I’m currently learning Duy Tan University
 - 💞️ I’m looking to collaborate on FPT Sotfware
-- 📫 How to reach me at https://www.facebook.com/datkoi02/
+- 📫 How to reach me at letiendat8102@gmail.com
 
 <!---
 LeTienDat02/LeTienDat02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
