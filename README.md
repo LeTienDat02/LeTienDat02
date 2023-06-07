@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lê Tiến Đạt
 - 🌱 I’m currently learning Duy Tan University
-- 💞️ I’m looking to collaborate on FPT Sotfware
 - 📫 How to reach me at letiendat8102@gmail.com
 
 <!---
